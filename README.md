@@ -14,8 +14,6 @@
 5. Hapus key del dBuku["penerbit"]
 
 ## Output Program
-<img width="336" height="364" alt="Screenshot 2026-09-15 182431" src="https://github.com/user-attachments/assets/9cef3074-3edc-4ee0-aa2c-fe92c2623b1c" />
-<img width="336" height="364" alt="Screenshot 2026-09-15 182538" src="https://github.com/user-attachments/assets/fbdfa19c-fd53-4069-a2e2-28add3704bd6" />
-<img width="336" height="364" alt="Screenshot 2026-09-15 182601" src="https://github.com/user-attachments/assets/be784483-4147-44b0-8027-8b20d357da42" />
-<img width="336" height="364" alt="Screenshot 2026-09-15 182614" src="https://github.com/user-attachments/assets/67833d0d-c374-4da7-be5c-87a268b36c46" />
-<img width="336" height="364" alt="Screenshot 2026-09-15 182625" src="https://github.com/user-attachments/assets/48253289-57e4-4003-9042-5792c5ba4853" />
+<img width="481" height="478" alt="Screenshot 2026-09-15 183232" src="https://github.com/user-attachments/assets/3f688dd4-a412-4a5e-94d3-14470f2b6eca" />
+<img width="653" height="477" alt="Screenshot 2026-09-15 183301" src="https://github.com/user-attachments/assets/64289bbe-c91a-46e3-8ed4-f1f374fd800f" />
+<img width="496" height="196" alt="Screenshot 2026-09-15 183314" src="https://github.com/user-attachments/assets/7f2f5961-3e9c-4b55-9299-8368c6d4e727" />
